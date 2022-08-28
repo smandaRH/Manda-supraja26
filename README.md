@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ - ✨Devops Enthusiast
+- ✨ Open Source Believer
+
+
+![ThatsMeLokiGIF](https://user-images.githubusercontent.com/88205562/187079600-1f52f784-464a-4a4f-ae85-c256b4cb354e.gif)
+
+
+
+
+
