@@ -1,6 +1,4 @@
 # 💫 About Me:
-🔭 I’m currently working on Devops and DSA-Python<br><br>🌱 I’m currently learning Devops and cloud<br><br>👯 I’m looking to collaborate on Devops related projects<br><br>🤝 I’m looking for help with my Opensource contribution
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supraja-manda-975b9620b/) [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://suprajamanda.hashnode.dev/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/SuprajaManda) 
